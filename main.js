@@ -1,5 +1,5 @@
 // BST (UTC+1)
-const targetDate = new Date("2026-09-07T08:30:00+01:00").getTime();
+const targetDate = new Date("2027-01-01T00:00:00Z").getTime();
 
 const daysEl = document.getElementById("days");
 const hoursEl = document.getElementById("hours");
